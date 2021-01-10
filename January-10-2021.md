@@ -22,4 +22,8 @@
 	* mjolnir_08
 	* mjolnir_11
 * Removed Harpy yuno respawn
-* 
+* Corrected Spawn iz_dun,mjo_dun,treasure,xmas_dun
+* Fixed additional Champion Swift Sohee
+* Fixed Sohee champion suiciding when it should not
+* Swift Champions would no longer teleport
+* DropEffect Additional for monster drops
