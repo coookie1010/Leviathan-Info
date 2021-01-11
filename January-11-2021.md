@@ -111,7 +111,7 @@ As for Armor, DEF is increased depending on the refine level.<br>
 <br>
 
 
-#ETC
+### ETC
 * Izlude warps npc corrected
 * Party adjustment
 * Corrected zero exp monsters
