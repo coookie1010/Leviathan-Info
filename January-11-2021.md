@@ -1,9 +1,5 @@
 # Changelog
 
-
-### Exp Table
-* The Base Experience table uses the 137 million version of kRO:Zero, this means you need to get a total of 137 million exp to reach 99
-
 ### Party changes
 
 * PARTY MEMBER - 1 * 20% Bonus
@@ -12,21 +8,21 @@
     * 9 party members
     * ( 10 - 1 ) * 20% = 280% Bonus
     
-Each party member receive:
+The new party exp bonus follows this table:
 
-| Players count | Bonus |
-| ------------- | ----- |
-| 2             | 60%   |
-| 3             | 46%   |
-| 4             | 40%   |
-| 5             | 36%   |
-| 6             | 33%   |
-| 7             | 31%   |
-| 8             | 30%   |
-| 9             | 29%   |
-| 10            | 28%   |
-| 11            | 27%   |
-| 12            | 26%   |
+| Players count | Party Bonus | Each Members Reiceve Exp |
+| ------------- | ----------- | ------------------------ |
+| 2             | 120%        | 60%                      |
+| 3             | 140%        | 46%                      |
+| 4             | 160%        | 40%                      |
+| 5             | 180%        | 36%                      |
+| 6             | 200%        | 33%                      |
+| 7             | 220%        | 31%                      |
+| 8             | 240%        | 30%                      |
+| 9             | 260%        | 29%                      |
+| 10            | 280%        | 28%                      |
+| 11            | 300%        | 27%                      |
+| 12            | 320%        | 26%                      |
 
 
 ### Refine Bonuses
