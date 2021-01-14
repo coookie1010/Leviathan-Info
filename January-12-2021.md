@@ -1,4 +1,6 @@
-# Changelog
+Changelog
+===========
+
 
 ### Beta Notes
 * First job change quests now grants platinum skills, please note this is not applied to whom change through izlude academy
