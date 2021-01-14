@@ -16,3 +16,4 @@ Changelog
 * Update Color Palletes
 * Corrected Eden npc and quests
 * npc clean up
+* Test discord Github
